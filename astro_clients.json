@@ -1,0 +1,79 @@
+{
+    "kishan": {
+        "name": "Kishan",
+        "birth_info": {
+            "name": "Kishan",
+            "year": 1996,
+            "month": 9,
+            "day": 6,
+            "hour": 6.25,
+            "lat": 21.1702,
+            "lon": 72.8311,
+            "tz_offset": 5.5
+        },
+        "chart": {
+            "Ascendant": {
+                "sign": "Leo",
+                "degree": 17.1,
+                "house": 1,
+                "lord": "Sun"
+            },
+            "Planets": {
+                "Sun": {
+                    "sign": "Leo",
+                    "degree": 19.9,
+                    "house": 1,
+                    "sign_lord": "Sun"
+                },
+                "Moon": {
+                    "sign": "Gemini",
+                    "degree": 3.8,
+                    "house": 11,
+                    "sign_lord": "Mercury"
+                },
+                "Mars": {
+                    "sign": "Cancer",
+                    "degree": 3.8,
+                    "house": 12,
+                    "sign_lord": "Moon"
+                },
+                "Mercury": {
+                    "sign": "Virgo",
+                    "degree": 9.52,
+                    "house": 2,
+                    "sign_lord": "Mercury"
+                },
+                "Jupiter": {
+                    "sign": "Sagittarius",
+                    "degree": 14.02,
+                    "house": 5,
+                    "sign_lord": "Jupiter"
+                },
+                "Venus": {
+                    "sign": "Cancer",
+                    "degree": 4.93,
+                    "house": 12,
+                    "sign_lord": "Moon"
+                },
+                "Saturn": {
+                    "sign": "Pisces",
+                    "degree": 11.71,
+                    "house": 8,
+                    "sign_lord": "Jupiter"
+                },
+                "Rahu": {
+                    "sign": "Virgo",
+                    "degree": 15.44,
+                    "house": 2,
+                    "sign_lord": "Mercury"
+                },
+                "Ketu": {
+                    "sign": "Pisces",
+                    "degree": 15.44,
+                    "house": 8,
+                    "sign_lord": "Jupiter"
+                }
+            }
+        }
+    }
+}
